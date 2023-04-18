@@ -8,7 +8,7 @@
 
 Nowadays, more than ever, all the dataset is complex and difficult to analyze only seen the data. It's important to filter, select desired components and remove others.
 The information is always changing and driving to business decisions. That's why it's important to have a robust tool to analize data.
-Here I built an web app to see the aeronautic occurences in Brazil in an interactive dashboard.
+Here I built an web app **low code** (no HTML, no divs, no reference or formatting problems) to see the aeronautic occurences in Brazil in an interactive dashboard.
 
 <img width="921" alt="image" src="https://user-images.githubusercontent.com/80737784/232753465-7d8f5bde-10dd-48f8-85d8-840772b39d5b.png">
 
